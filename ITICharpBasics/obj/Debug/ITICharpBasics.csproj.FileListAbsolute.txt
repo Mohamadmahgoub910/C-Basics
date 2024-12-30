@@ -1,0 +1,7 @@
+C:\Users\mmahg\source\repos\CSharp\ITICharpBasics\bin\Debug\ITICharpBasics.exe.config
+C:\Users\mmahg\source\repos\CSharp\ITICharpBasics\bin\Debug\ITICharpBasics.exe
+C:\Users\mmahg\source\repos\CSharp\ITICharpBasics\bin\Debug\ITICharpBasics.pdb
+C:\Users\mmahg\source\repos\CSharp\ITICharpBasics\obj\Debug\ITICharpBasics.csproj.AssemblyReference.cache
+C:\Users\mmahg\source\repos\CSharp\ITICharpBasics\obj\Debug\ITICharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\mmahg\source\repos\CSharp\ITICharpBasics\obj\Debug\ITICharpBasics.exe
+C:\Users\mmahg\source\repos\CSharp\ITICharpBasics\obj\Debug\ITICharpBasics.pdb
